@@ -1,0 +1,27 @@
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  position: absolute;
+  margin-top: 10px;
+  
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  position: absolute;
+  left: 250px;
+  margin-top:10px;
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  left: 500px;
+  margin-top: 10px;
+}
+
